@@ -1,6 +1,6 @@
 # PRODIGY_WD_02
 
-topwatch Project
+Stopwatch Project
 
 Overview :
 This project is a simple stopwatch application built using HTML, CSS, and JavaScript. The primary goal of this project is to provide users with a straightforward tool to measure elapsed time accurately.
